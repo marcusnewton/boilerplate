@@ -1,5 +1,6 @@
 {
   inputs = {
+    # Remember to update inputs with `nix flake update`
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
   };

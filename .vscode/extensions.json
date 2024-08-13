@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "b4dm4n.nixpkgs-fmt",
     "mkhl.direnv",
     "jnoortheen.nix-ide",
     "esbenp.prettier-vscode"
